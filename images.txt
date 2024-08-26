@@ -2,3 +2,4 @@ nginx
 minio/minio
 alpine
 python:alpine3.19
+mysql:8.56
