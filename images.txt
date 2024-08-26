@@ -28,3 +28,7 @@ ubuntu:24.04
 ubuntu:24.10
 ubuntu:23.10
 freemanliu/keepalived:v2.0.4
+grafana/grafana:11.1.3
+grafana/grafana:11.0.2
+grafana/grafana:10.0.0
+grafana/grafana:11.1.0-ubuntu
