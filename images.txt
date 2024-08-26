@@ -4,5 +4,5 @@ mysql:5.7
 redis:6.2.7
 mongo:5.0.2
 redis
-keepalived
-ingress
+centos
+mypenut/unbutu
