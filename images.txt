@@ -6,3 +6,5 @@ mongo:5.0.2
 redis
 centos
 mypenut/unbutu
+grafana/grafana
+chainguard/prometheus
