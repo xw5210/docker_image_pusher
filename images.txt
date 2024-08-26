@@ -8,3 +8,4 @@ centos
 mypenut/unbutu
 grafana/grafana
 chainguard/prometheus
+nginxinc/ingress-demo
