@@ -32,3 +32,6 @@ grafana/grafana:11.1.3
 grafana/grafana:11.0.2
 grafana/grafana:10.0.0
 grafana/grafana:11.1.0-ubuntu
+elasticsearch:8.15.0
+elasticsearch:7.17.23
+elasticsearch:8.14.0
