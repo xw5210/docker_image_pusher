@@ -35,3 +35,4 @@ grafana/grafana:11.1.0-ubuntu
 elasticsearch:8.15.0
 elasticsearch:7.17.23
 elasticsearch:8.14.0
+prom/node-exporter:v1.8.2
