@@ -38,3 +38,4 @@ elasticsearch:8.14.0
 prom/node-exporter:v1.8.2
 yidadaa/chatgpt-next-web:v2.14.2
 yidadaa/chatgpt-next-web
+
